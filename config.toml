@@ -1,4 +1,4 @@
-baseURL = "https://elated-hamilton-8a8e8c.netlify.com"
+baseURL = "https://elated-hamilton-8a8e8c.netlify.com/"
 languageCode = "en-us"
 title = "Lunch and Blog"
 theme = "hyde"
